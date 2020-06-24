@@ -1,1 +1,6 @@
 Quiz.pdf
+.ipynb_checkpoints/
+*.pdf
+*.pptx
+images/
+datasets/
